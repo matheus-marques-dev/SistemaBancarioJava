@@ -18,7 +18,7 @@ O projeto simula operações bancárias essenciais sem o uso de frameworks, foca
 
 ## Tecnologias e Conceitos Utilizados
 
-- **Java **
+- **Java**
 - **POO (Programação Orientada a Objetos):**
   - **Encapsulamento:** Atributos protegidos (`private`/`protected`) acessados via métodos.
   - **Herança:** `ContaCorrente` e `ContaPoupanca` herdam de `Conta`.
